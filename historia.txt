@@ -1,2 +1,4 @@
 Hola soy Juan Pablo tengo 24
 Y estoy aprendiendo git y github
+
+es complejo pero con el tiempo lo voy entendiendo
