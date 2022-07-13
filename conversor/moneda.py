@@ -1,6 +1,6 @@
-class moneda:
+class Conversion:
 
-    def colombia():
+    def Colombia():
         pesos = input("¿cuantos pesos colombianos tienes? ")
         pesos = float(pesos)
         valor_dolar = 4608.65
@@ -9,7 +9,7 @@ class moneda:
         dolares = str(dolares)
         print("tienes $"+dolares+" dolares")
 
-    def argentina():
+    def Argentina():
         pesos = input("¿cuantos pesos argentinos tienes? ")
         pesos = float(pesos)
         valor_dolar = 127.59
@@ -18,7 +18,7 @@ class moneda:
         dolares = str(dolares)
         print("tienes $"+dolares+" dolares")
 
-    def brazil():
+    def Brazil():
         real = input("¿cuantos reales brasileños tienes? ")
         real = float(real)
         valor_dolar = 5.44
